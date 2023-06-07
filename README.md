@@ -6,6 +6,7 @@ Main update site URL: https://testng.org/testng-p2-update-site
 Versioned updated site URL:
 * https://testng.org/testng-p2-update-site/7.8.0
 * https://testng.org/testng-p2-update-site/7.7.1
+* https://testng.org/testng-p2-update-site/7.7.0
 * https://testng.org/testng-p2-update-site/7.6.1
 * https://testng.org/testng-p2-update-site/7.5.0
 * https://testng.org/testng-p2-update-site/7.4.0
