@@ -1,9 +1,9 @@
 TestNG P2 Update Site
 ====
 
-Main update site URL: https://testng.org/testng-p2-update-site
+Main update-site URL: https://testng.org/testng-p2-update-site
 
-Versioned updated site URL:
+Versioned update-site URL:
 * https://testng.org/testng-p2-update-site/7.10.1
     **It requires the TestNG Eclipse Plugin 7.10.0 or above due to the breaking changes since TestNG 7.10.0**
 * https://testng.org/testng-p2-update-site/7.9.0
